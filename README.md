@@ -28,3 +28,7 @@ Finally, all changes are completed on your local repository, and force update yo
 git push -f origin main
 PS: This will not keep your old commit history around. Now you should only see your new commit in the history of your git repository.
 
+
+# Git ignore does not ignore some files
+
+git rm --cached
