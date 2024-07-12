@@ -29,6 +29,6 @@ git push -f origin main
 PS: This will not keep your old commit history around. Now you should only see your new commit in the history of your git repository.
 
 
-# Git ignore does not ignore some files
+# Git ignore does not ignore some files [https://stackoverflow.com/a/45400404/17302876]
 
 git rm --cached
